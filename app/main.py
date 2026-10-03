@@ -18,4 +18,4 @@ def move_file(command: str) -> None:
     with open(destination, "w") as destination_file:
         destination_file.write(content)
 
-    os.remove(source) your code here
+    os.remove(source)
