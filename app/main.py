@@ -1,4 +1,4 @@
-# import os
+import os
 
 
 def move_file(command: str) -> None:
